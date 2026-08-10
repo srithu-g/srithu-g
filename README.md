@@ -119,27 +119,50 @@ The research explores how machine learning and natural language processing can t
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🧠 AI/ML Ops Engineer — HealthSathi
+<details>
+<summary><b>🧠 AI/ML Ops Engineer — HealthSathi</b> &nbsp;|&nbsp; Jun 2025 – Apr 2026</summary>
 
-Worked on AI/ML engineering workflows with a focus on developing and supporting machine-learning-driven solutions.
+<br>
 
-**Focus Areas**
+* Architected an end-to-end **AI diagnostic pipeline for early tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
+* Trained **XGBoost and Random Forest** models on **5,000+ labeled medical audio samples**, achieving **98% diagnostic accuracy**.
+* Engineered low-latency ML inference pipelines, reducing **prediction latency by 30%** for near real-time clinical decision support.
+* Built reproducible ML experimentation workflows covering **feature selection, hyperparameter tuning, and cross-validation** using Scikit-learn, Pandas, and Jupyter.
+* Collaborated with healthcare teams to integrate AI-assisted screening into workflows supporting **remote and underserved populations**.
 
-* Artificial Intelligence & Machine Learning
-* ML workflows and engineering
-* Data processing and model development
-* AI application development
-* Practical deployment-oriented engineering
+**Stack:** `Python` · `Google HeAR` · `XGBoost` · `Random Forest` · `Scikit-learn` · `Pandas` · `Jupyter` · `Signal Processing`
 
----
+</details>
 
-## 💻 Micron — #Master 2.0 Full Stack Development Program
+<details>
+<summary><b>🤖 AI Software Developer — Spinabot</b> &nbsp;|&nbsp; Jan 2025 – Apr 2025</summary>
 
-**Apr 2025 – Jun 2025**
+<br>
 
-Completed Micron's **#Master 2.0 Full Stack Development Training Program**, gaining hands-on experience in enterprise-oriented application development.
+* Designed **LLM-powered autonomous agents** for enterprise workflow automation across marketing, sales, and operations using LangChain and multi-agent architectures.
+* Built scalable full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
+* Developed real-time AI monitoring dashboards using **Streamlit and JavaScript** to track agent activity and workflow execution.
+* Engineered LLM automation pipelines that reduced repetitive manual workflows and accelerated operational processes.
+
+**Stack:** `LangChain` · `LLMs` · `Multi-Agent Systems` · `React.js` · `Node.js` · `Spring Boot` · `REST APIs` · `Streamlit`
+
+</details>
+
+<details>
+<summary><b>💻 Engineering Mentee — Micron #Master 2.0</b> &nbsp;|&nbsp; Apr 2025 – Jun 2025</summary>
+
+<br>
+
+* Designed and deployed a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
+* Engineered automated **medicine expiry prediction and alerting**, reducing medicine wastage by **40%** through proactive inventory monitoring.
+* Optimized database queries and indexing to improve **inventory performance and scalability**.
+* Applied industry practices in **API architecture, modular design, and backend service orchestration** under Micron engineering mentorship.
+
+**Stack:** `Angular` · `ASP.NET Core` · `SQL Server` · `REST APIs` · `Entity Framework Core`
+
+</details>
 
 ### Medicine Inventory Management System
 
