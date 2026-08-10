@@ -132,7 +132,6 @@ The research explores how machine learning and natural language processing can t
 * Collaborated with healthcare teams to integrate AI-assisted screening into workflows supporting **remote and underserved populations**.
 
 
-
 ### 🤖 AI Software Developer — Spinabot
 
 **Jan 2025 – Apr 2025 · Edison, New Jersey, USA · Remote**
@@ -141,7 +140,6 @@ The research explores how machine learning and natural language processing can t
 * Developed scalable full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
 * Built dynamic **Streamlit and JavaScript dashboards** for real-time monitoring of AI agent activity and workflow execution.
 * Engineered LLM automation pipelines that reduced repetitive manual workflows and accelerated enterprise campaign execution.
-
 
 
 ### ⚙️ Engineering Mentee — Micron #Master 2.0
@@ -183,7 +181,6 @@ An ML and NLP-based system that predicts potential SLA breaches from IT incident
 
 **IEEE Conference Publication · ICoECIT 2026**
 
----
 
 ### Spinabot Job Alert Agent
 
@@ -197,7 +194,6 @@ An AI-powered job discovery and alert platform that analyzes user preferences an
 
 **Stack:** `FastAPI` · `PostgreSQL` · `Gemini API` · `Streamlit` · `Twilio` · `Python`
 
----
 
 ### Medicine Inventory Management System
 
@@ -211,7 +207,6 @@ A healthcare inventory platform for managing medicine stocks, expiry dates, and 
 
 **Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server` · `REST API`
 
----
 
 ### Interactive Credit Card Fraud Detection System
 
@@ -225,7 +220,6 @@ A machine-learning-based web application for detecting suspicious credit card tr
 
 **Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
 
----
 
 ### EcoPuzzle — Environmental Education Game
 
@@ -239,7 +233,6 @@ An interactive educational puzzle game designed to promote environmental awarene
 
 **Stack:** `Unity` · `C#` · `MongoDB` · `GLOBE Program`
 
----
 
 ### Traveler Bag Security Device
 
@@ -253,92 +246,6 @@ A hardware-software security system combining biometric authentication, motion d
 
 **Stack:** `ESP8266` · `Arduino IDE` · `Sensors` · `GPS` · `IoT` · `Twilio`
 
----
-
-### Finance Dashboard
-
-**Feb 2025**
-
-A web-based personal finance application for tracking accounts, transactions, spending patterns, and financial insights.
-
-* Implemented authentication, account overview, and transaction tracking.
-* Built interactive analytics for **income, expenses, and category-wise spending**.
-* Added an AI-powered virtual assistant for financial queries and insights.
-
-**Stack:** `HTML5` · `CSS` · `JavaScript` · `AI`
-
-
----
-
-### Spinabot Job Alert Agent
-
-**Jan 2025 – Mar 2025**
-
-An AI-powered job discovery and alert platform that analyzes user preferences and resumes to deliver personalized job recommendations and real-time notifications.
-
-* Built AI-powered job matching using **Gemini API**, resume parsing, and personalized preferences.
-* Developed a full-stack application with **FastAPI, PostgreSQL, and Streamlit**.
-* Integrated **Twilio WhatsApp alerts** for real-time job notifications.
-
-**Stack:** `FastAPI` · `PostgreSQL` · `Gemini API` · `Streamlit` · `Twilio` · `Python`
-
----
-
-### Medicine Inventory Management System
-
-**Apr 2025 – Jun 2025**
-
-A healthcare inventory platform for managing medicine stocks, expiry dates, and authorized operator access while reducing inventory wastage.
-
-* Built medicine tracking, search, stock management, and **automated expiry alerts**.
-* Implemented **token-based authentication** and RESTful backend services.
-* Developed the application using **Angular, ASP.NET Core Web API, Entity Framework, and SQL Server**.
-
-**Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server` · `REST API`
-
----
-
-### Interactive Credit Card Fraud Detection System
-
-**Jan 2025 – May 2025**
-
-A machine-learning-based web application for detecting suspicious credit card transactions and providing real-time fraud alerts.
-
-* Developed ML models to identify fraudulent transaction patterns.
-* Integrated **Twilio SMS alerts** for suspicious transactions.
-* Built an administrative dashboard with transaction monitoring, fraud analytics, and model feedback.
-
-**Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
-
----
-
-### EcoPuzzle — Environmental Education Game
-
-**2024**
-
-An interactive educational puzzle game designed to promote environmental awareness and scientific understanding through progressively challenging gameplay.
-
-* Developed the game using **Unity** with environmental learning objectives.
-* Integrated **MongoDB** and GLOBE Program protocols.
-* Combined interactive gameplay with educational content to encourage environmental literacy and problem-solving.
-
-**Stack:** `Unity` · `C#` · `MongoDB` · `GLOBE Program`
-
----
-
-### Traveler Bag Security Device
-
-**Feb 2024 – Aug 2024**
-
-A hardware-software security system combining biometric authentication, motion detection, GPS tracking, and real-time alerts to protect valuable belongings.
-
-* Integrated **ESP8266, fingerprint sensor, ADXL345 accelerometer, and NEO-6M GPS** for access control and movement detection.
-* Implemented **BC547 transistor-based external alert triggering** for unauthorized access.
-* Added **Twilio SMS notifications** for real-time security alerts.
-
-**Stack:** `ESP8266` · `Arduino IDE` · `Sensors` · `GPS` · `IoT` · `Twilio`
-
----
 
 ### Finance Dashboard
 
@@ -375,24 +282,6 @@ The project integrated **Unity, MongoDB, and GLOBE Program protocols** to create
 
 ---
 
-## 💊 Medicine Inventory Management System
-
-A secure healthcare inventory platform developed during the **Micron #Master 2.0** program.
-
-**Highlights**
-
-* Medicine management
-* Stock tracking
-* Expiry alerts
-* Search and filtering
-* Authentication and authorization
-* RESTful APIs
-* Database-backed inventory management
-
-**Stack:** `Angular` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server`
-
----
-
 ## 🔍 Explainable AI Research
 
 Explored **Explainable Artificial Intelligence (XAI)** with a focus on making machine-learning predictions more interpretable and understandable.
@@ -403,59 +292,36 @@ The work strengthened my interest in developing AI systems where **performance a
 
 ---
 
-# 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
-<div align="center">
+### 🤖 AI, Machine Learning & Data Science
 
-### 🤖 Artificial Intelligence & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### 🧠 Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-534AB7?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-7F77DD?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge)
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Generative AI` · `Large Language Models (LLMs)` · `Prompt Engineering` · `Retrieval-Augmented Generation (RAG)` · `Explainable AI (XAI)` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning` · `Cross-Validation` · `Ensemble Learning` · `Classification` · `Regression` · `Clustering` · `Data Mining`
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+`Python` · `Java` · `JavaScript` · `TypeScript` · `C` · `SQL` · `HTML5` · `CSS3`
 
-### 🌐 Web Development & APIs
+### ⚙️ AI, Web & Backend Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+`LangChain` · `FastAPI` · `Streamlit` · `React.js` · `Node.js` · `Angular` · `Spring MVC` · `Hibernate` · `Servlets` · `JSP` · `RESTful APIs`
 
-### 🗄️ Databases
+### 🧠 Core Computer Science
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering` · `DevOps` · `Cloud Computing`
 
-### ☁️ Cloud & DevOps
+### 🗄️ Databases & Data Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+`MySQL` · `PostgreSQL` · `MongoDB` · `Firebase` · `SQL Server` · `Tableau` · `Power BI` · `Excel`
 
-</div>
+### ☁️ Cloud, DevOps & Development Tools
+
+`AWS` · `Azure` · `Jenkins` · `Git` · `GitHub` · `Jupyter` · `VS Code`
+
+### 🧰 AI/ML Engineering
+
+`Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Model Training` · `Model Validation` · `ML Pipelines` · `Inference Optimization` · `Experimentation` · `Feature Selection`
+
 
 ---
 
