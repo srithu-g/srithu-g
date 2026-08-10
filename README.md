@@ -131,7 +131,7 @@ The research explores how machine learning and natural language processing can t
 * Built reproducible ML experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**, covering feature selection, tuning, and cross-validation.
 * Collaborated with healthcare teams to integrate AI-assisted screening into workflows supporting **remote and underserved populations**.
 
----
+
 
 ### 🤖 AI Software Developer — Spinabot
 
@@ -142,7 +142,7 @@ The research explores how machine learning and natural language processing can t
 * Built dynamic **Streamlit and JavaScript dashboards** for real-time monitoring of AI agent activity and workflow execution.
 * Engineered LLM automation pipelines that reduced repetitive manual workflows and accelerated enterprise campaign execution.
 
----
+
 
 ### ⚙️ Engineering Mentee — Micron #Master 2.0
 
@@ -153,6 +153,7 @@ The research explores how machine learning and natural language processing can t
 * Optimized database queries and indexing strategies to improve **inventory performance and scalability**.
 * Applied industry practices in **API architecture, modular design, and backend service orchestration** under mentorship from Micron engineering leaders.
 
+---
 
 # 🚀 Featured Projects
 
