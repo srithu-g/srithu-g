@@ -121,72 +121,38 @@ The research explores how machine learning and natural language processing can t
 
 ## 💼 Experience
 
-<details>
-<summary><b>🧠 AI/ML Ops Engineer — HealthSathi</b> &nbsp;|&nbsp; Jun 2025 – Apr 2026</summary>
+### 🧠 AI/ML Ops Engineer — HealthSathi
 
-<br>
+**Jun 2025 – Apr 2026 · Marietta, GA · Remote**
 
 * Architected an end-to-end **AI diagnostic pipeline for early tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
-* Trained **XGBoost and Random Forest** models on **5,000+ labeled medical audio samples**, achieving **98% diagnostic accuracy**.
-* Engineered low-latency ML inference pipelines, reducing **prediction latency by 30%** for near real-time clinical decision support.
-* Built reproducible ML experimentation workflows covering **feature selection, hyperparameter tuning, and cross-validation** using Scikit-learn, Pandas, and Jupyter.
+* Trained **XGBoost and Random Forest** ensemble models on **5,000+ labeled medical audio samples**, achieving **98% diagnostic accuracy**.
+* Engineered a low-latency inference pipeline, reducing prediction latency by **30%** for near real-time clinical decision support.
+* Built reproducible ML experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**, covering feature selection, tuning, and cross-validation.
 * Collaborated with healthcare teams to integrate AI-assisted screening into workflows supporting **remote and underserved populations**.
 
-**Stack:** `Python` · `Google HeAR` · `XGBoost` · `Random Forest` · `Scikit-learn` · `Pandas` · `Jupyter` · `Signal Processing`
+---
 
-</details>
+### 🤖 AI Software Developer — Spinabot
 
-<details>
-<summary><b>🤖 AI Software Developer — Spinabot</b> &nbsp;|&nbsp; Jan 2025 – Apr 2025</summary>
+**Jan 2025 – Apr 2025 · Edison, NJ · Remote**
 
-<br>
+* Designed **LLM-powered autonomous AI agents** for enterprise workflow automation across marketing, sales, and operations using **LangChain and multi-agent architectures**.
+* Developed scalable full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
+* Built dynamic **Streamlit and JavaScript dashboards** for real-time monitoring of AI agent activity and workflow execution.
+* Engineered LLM automation pipelines that reduced repetitive manual workflows and accelerated enterprise campaign execution.
 
-* Designed **LLM-powered autonomous agents** for enterprise workflow automation across marketing, sales, and operations using LangChain and multi-agent architectures.
-* Built scalable full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
-* Developed real-time AI monitoring dashboards using **Streamlit and JavaScript** to track agent activity and workflow execution.
-* Engineered LLM automation pipelines that reduced repetitive manual workflows and accelerated operational processes.
+---
 
-**Stack:** `LangChain` · `LLMs` · `Multi-Agent Systems` · `React.js` · `Node.js` · `Spring Boot` · `REST APIs` · `Streamlit`
+### ⚙️ Engineering Mentee — Micron #Master 2.0
 
-</details>
+**Apr 2025 – Jun 2025 · Hyderabad, India**
 
-<details>
-<summary><b>💻 Engineering Mentee — Micron #Master 2.0</b> &nbsp;|&nbsp; Apr 2025 – Jun 2025</summary>
-
-<br>
-
-* Designed and deployed a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
+* Designed and deployed a **pharmaceutical inventory management platform** using **Angular, ASP.NET Core, SQL Server, and REST APIs**.
 * Engineered automated **medicine expiry prediction and alerting**, reducing medicine wastage by **40%** through proactive inventory monitoring.
-* Optimized database queries and indexing to improve **inventory performance and scalability**.
-* Applied industry practices in **API architecture, modular design, and backend service orchestration** under Micron engineering mentorship.
+* Optimized database queries and indexing strategies to improve **inventory performance and scalability**.
+* Applied industry practices in **API architecture, modular design, and backend service orchestration** under mentorship from Micron engineering leaders.
 
-**Stack:** `Angular` · `ASP.NET Core` · `SQL Server` · `REST APIs` · `Entity Framework Core`
-
-</details>
-
-### Medicine Inventory Management System
-
-Built a healthcare-focused inventory management application covering:
-
-* 💊 Medicine stock management
-* 🔍 Search and filtering
-* 📦 Real-time inventory tracking
-* 🚨 Expiry monitoring
-* 🔐 Token-based authentication
-* 🖥️ Responsive Angular frontend
-* ⚙️ ASP.NET Core Web API
-* 🗄️ Entity Framework Core
-* 🛢️ SQL Server
-
-**Technology:** `Angular` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server`
-
----
-
-## 💻 Spinabot — Software / AI Internship
-
-Gained practical experience working in a professional development environment while strengthening software engineering and problem-solving skills.
-
----
 
 # 🚀 Featured Projects
 
