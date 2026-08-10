@@ -201,21 +201,21 @@ IoT-based security system combining biometric authentication, motion detection, 
 ### 🤖 AI / ML
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🧠 AI / ML Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Search-0A0A0A?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-0A0A0A?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-0A0A0A?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-E91E63?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-1976D2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-00897B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-F57C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-6A1B9A?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Languages
