@@ -291,40 +291,88 @@ The work strengthened my interest in developing AI systems where **performance a
 **Focus:** `Machine Learning` · `Explainable AI` · `Interpretability` · `Python`
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Arsenal
+<div align="center">
 
-### 🤖 AI, Machine Learning & Data Science
+### AI / ML
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Generative AI` · `Large Language Models (LLMs)` · `Prompt Engineering` · `Retrieval-Augmented Generation (RAG)` · `Explainable AI (XAI)` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning` · `Cross-Validation` · `Ensemble Learning` · `Classification` · `Regression` · `Clustering` · `Data Mining`
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
-### 💻 Programming Languages
+<img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-534AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-0891B2?style=flat-square"/>
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `C` · `SQL` · `HTML5` · `CSS3`
+### AI / ML Concepts
 
-### ⚙️ AI, Web & Backend Frameworks
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ensemble%20Learning-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Classification-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross--Validation-22C55E?style=flat-square"/>
 
-`LangChain` · `FastAPI` · `Streamlit` · `React.js` · `Node.js` · `Angular` · `Spring MVC` · `Hibernate` · `Servlets` · `JSP` · `RESTful APIs`
+### Languages
 
-### 🧠 Core Computer Science
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering` · `DevOps` · `Cloud Computing`
+### Frameworks & APIs
 
-### 🗄️ Databases & Data Tools
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square"/>
 
-`MySQL` · `PostgreSQL` · `MongoDB` · `Firebase` · `SQL Server` · `Tableau` · `Power BI` · `Excel`
+### Cloud & Data
 
-### ☁️ Cloud, DevOps & Development Tools
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-`AWS` · `Azure` · `Jenkins` · `Git` · `GitHub` · `Jupyter` · `VS Code`
+### DevOps & Tools
 
-### 🧰 AI/ML Engineering
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
-`Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Model Training` · `Model Validation` · `ML Pipelines` · `Inference Optimization` · `Experimentation` · `Feature Selection`
+### Analytics & Visualization
 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
+</div>
 ---
-
 # 🎓 Education
 
 ## G. Narayanamma Institute of Technology and Sciences (GNITS)
