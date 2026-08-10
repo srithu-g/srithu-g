@@ -198,14 +198,25 @@ IoT-based security system combining biometric authentication, motion detection, 
 ## 🛠️ Tech Stack
 
 <div align="center">
+### 🤖 AI / ML
 
-🤖 AI / ML
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23412991?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%23412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-%23412991?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-%23412991?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" /> </p>
+### 🧠 AI / ML Concepts
 
-🧠 AI / ML Concepts
-
-<p align="left"> <img src="https://img.shields.io/badge/Prompt%20Engineering-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embeddings-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vector%20Search-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Model%20Evaluation-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Explainable%20AI-0A0A0A?style=for-the-badge" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%230A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-%230A0A0A?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-%230A0A0A?style=for-the-badge&logo=weaviate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-%230A0A0A?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-%230A0A0A?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### Languages
 
