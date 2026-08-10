@@ -98,16 +98,18 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 - Optimized database queries and indexing for improved performance and scalability.
 
 ---
-Leadership & Activities
-Innovation & Incubation Cell Lead — GNITS
+## Leadership & Activities
 
-G. Narayanamma Institute of Technology and Sciences
+### Innovation & Incubation Cell Lead — GNITS
 
-Led the Innovation & Incubation Cell, driving a culture of innovation, entrepreneurship, and collaborative problem-solving across the campus.
+**G. Narayanamma Institute of Technology and Sciences**
 
-Organized and led hackathons, workshops, and innovation-focused initiatives, engaging students in hands-on learning and ideation.
-Motivated and mentored students to transform ideas into practical, technology-driven solutions.
-Coordinated teams, faculty, and stakeholders to execute initiatives and foster a strong innovation and entrepreneurial ecosystem.
+Led the Innovation & Incubation Cell, driving a culture of **innovation, entrepreneurship, and collaborative problem-solving** across the campus.
+
+* Organized and led **hackathons, workshops, and innovation-focused initiatives**, engaging students in hands-on learning and ideation.
+* Motivated and mentored students to transform ideas into **practical, technology-driven solutions**.
+* Coordinated teams, faculty, and stakeholders to execute initiatives and foster a strong **innovation and entrepreneurial ecosystem**.
+
 ---
 
 ## 🚀 Featured Projects
