@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Srithu Gaddolla
 
-### AI/ML Engineer · LLM · RAG · Intelligent Systems · AI Research
+### AI/ML Engineer · Generative AI · LLMs · Intelligent Systems · AI Research
 
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-534AB7?style=for-the-badge\&logo=artificialintelligence\&logoColor=white)
-![IEEE Published Researcher](https://img.shields.io/badge/IEEE%20Published%20Researcher-00629B?style=for-the-badge\&logo=ieee\&logoColor=white)
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-534AB7?style=for-the-badge)
+![IEEE Published Researcher](https://img.shields.io/badge/IEEE%20Published%20Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 ![B.Tech IT](https://img.shields.io/badge/B.Tech%20IT-9.20%20CGPA-22C55E?style=for-the-badge)
 
 <br>
@@ -14,9 +14,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srithu%20Gaddolla-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/srithugaddolla)
-[![GitHub](https://img.shields.io/badge/GitHub-srithu--g-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/srithu-g)
-[![Email](https://img.shields.io/badge/Email-srithu.gaddolla%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:srithu.gaddolla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srithu%20Gaddolla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srithugaddolla)
+[![GitHub](https://img.shields.io/badge/GitHub-srithu--g-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srithu-g)
+[![Email](https://img.shields.io/badge/Email-srithu.gaddolla%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srithu.gaddolla@gmail.com)
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-## ⚡ AI/ML · Research · Engineering · Building
+### ⚡ AI/ML · Research · Engineering · Building
 
-**9.20 CGPA**  ·  **IEEE Conference Publication**  ·  **AI/ML Projects**  ·  **Full-Stack Engineering**
+**9.20 CGPA** · **IEEE Conference Publication** · **AI/ML Experience** · **Full-Stack Engineering** · **Innovation Leadership**
 
 </div>
 
@@ -34,56 +34,19 @@
 
 ## 🧠 About Me
 
-I'm an **Information Technology graduate** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and intelligent systems**.
+I'm an **Information Technology graduate** focused on **Artificial Intelligence, Machine Learning, Generative AI, and intelligent systems**.
 
-My journey spans more than just model development — I enjoy working across the full path from **problem definition and data → machine learning → intelligent applications → APIs → deployment → usable products**.
+I enjoy building across the complete journey from **data and models → AI applications → APIs → deployment → real-world products**.
 
-I've worked on AI/ML projects, full-stack applications, research, and industry-oriented development, while continuously deepening my understanding of how intelligent systems are designed and engineered.
+My experience spans **AI/ML engineering, LLM applications, full-stack development, research, and industry-oriented software engineering**.
 
-My first research publication, **SentrySLA: SLA Breach Predictor for Incident Management Using Machine Learning**, was published as an **IEEE conference paper** at the *2026 IEEE International Conference on Emerging Computing and Intelligent Technologies (ICoECIT)*.
+My research work, **SentrySLA**, was published as an **IEEE conference paper** at the *2026 IEEE International Conference on Emerging Computing and Intelligent Technologies (ICoECIT)*.
 
-I'm particularly interested in building AI systems that are not only accurate, but also **practical, explainable, reliable, and useful in real-world environments**.
-
-```python
-srithu = {
-    "role": "AI/ML Engineer",
-    "education": "B.Tech in Information Technology",
-    "cgpa": "9.20 / 10.0",
-    
-    "core_interests": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "Large Language Models",
-        "Intelligent Systems",
-        "Explainable AI"
-    ],
-
-    "engineering": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "React",
-        "FastAPI",
-        "Streamlit",
-        "SQL",
-        "Cloud & DevOps"
-    ],
-
-    "research": [
-        "Machine Learning",
-        "Natural Language Processing",
-        "Explainable AI",
-        "Intelligent Decision Systems"
-    ],
-
-    "mindset": "Learn deeply. Build practically. Engineer intelligently."
-}
-```
+I'm particularly interested in building AI systems that are **practical, reliable, explainable, and useful in real-world environments**.
 
 ---
 
-# 🔬 IEEE Research Publication
+## 🔬 IEEE Research Publication
 
 <div align="center">
 
@@ -93,277 +56,225 @@ srithu = {
 
 </div>
 
-**SentrySLA** is an intelligent ML + NLP system designed to proactively identify high-risk IT incident tickets and predict potential **SLA breaches** before they occur.
+An ML + NLP system designed to proactively identify high-risk IT incident tickets and predict potential **SLA breaches** before they occur.
 
-The research explores how machine learning and natural language processing can transform incident management from a **reactive process into proactive risk assessment and decision-making**.
+**Key Contributions**
 
-### 🔍 Key Contributions
-
-* 📊 **SLA Risk Prediction** using Machine Learning
-* 🧠 **NLP-based Incident Ticket Analysis**
-* ⚡ **Real-time Risk Assessment & Prioritization**
-* 📈 **Interactive Streamlit Dashboard**
-* 🔔 **Automated Alerts for High-Risk Incidents**
-* 🎯 **Intelligent Ticket Prioritization**
-* 🤖 **TF-IDF + Logistic Regression** for breach prediction
-
-### 🏛️ Publication
-
-**Conference:** 2026 IEEE International Conference on Emerging Computing and Intelligent Technologies (ICoECIT)
+- SLA risk prediction using Machine Learning
+- NLP-based incident ticket analysis
+- Intelligent ticket prioritization
+- TF-IDF + Logistic Regression classification
+- Real-time risk monitoring with Streamlit
+- Automated alerts for high-risk incidents
 
 **DOI:** `10.1109/ICoECIT68303.2026.11496752`
 
-📄 **[View Publication Details](https://doi.org/10.1109/ICoECIT68303.2026.11496752)**
-
-> My first IEEE publication — and the beginning of my journey into AI research and intelligent systems.
+📄 [View Publication](https://doi.org/10.1109/ICoECIT68303.2026.11496752)
 
 ---
 
 ## 💼 Experience
 
 ### 🧠 AI/ML Ops Engineer — HealthSathi
+**Jun 2025 – Apr 2026 · Marietta, GA · Remote**
 
-**Jun 2025 – Apr 2026 · Marietta, Georgia, USA · Remote**
-
-* Architected an end-to-end **AI diagnostic pipeline for early tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
-* Trained **XGBoost and Random Forest** ensemble models on **5,000+ labeled medical audio samples**, achieving **98% diagnostic accuracy**.
-* Engineered a low-latency inference pipeline, reducing prediction latency by **30%** for near real-time clinical decision support.
-* Built reproducible ML experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**, covering feature selection, tuning, and cross-validation.
-* Collaborated with healthcare teams to integrate AI-assisted screening into workflows supporting **remote and underserved populations**.
-
-
-### 🤖 AI Software Developer — Spinabot
-
-**Jan 2025 – Apr 2025 · Edison, New Jersey, USA · Remote**
-
-* Designed **LLM-powered autonomous AI agents** for enterprise workflow automation across marketing, sales, and operations using **LangChain and multi-agent architectures**.
-* Developed scalable full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
-* Built dynamic **Streamlit and JavaScript dashboards** for real-time monitoring of AI agent activity and workflow execution.
-* Engineered LLM automation pipelines that reduced repetitive manual workflows and accelerated enterprise campaign execution.
-
+- Built an end-to-end **AI diagnostic pipeline for tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
+- Trained **XGBoost and Random Forest** models on **5,000+ medical audio samples**, achieving **98% diagnostic accuracy**.
+- Optimized ML inference pipelines, reducing prediction latency by **30%**.
+- Developed reproducible experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**.
 
 ### ⚙️ Engineering Mentee — Micron #Master 2.0
-
 **Apr 2025 – Jun 2025 · Hyderabad, India**
 
-* Designed and deployed a **pharmaceutical inventory management platform** using **Angular, ASP.NET Core, SQL Server, and REST APIs**.
-* Engineered automated **medicine expiry prediction and alerting**, reducing medicine wastage by **40%** through proactive inventory monitoring.
-* Optimized database queries and indexing strategies to improve **inventory performance and scalability**.
-* Applied industry practices in **API architecture, modular design, and backend service orchestration** under mentorship from Micron engineering leaders.
+- Built a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
+- Developed automated **medicine expiry prediction and alerts**, reducing wastage by **40%**.
+- Optimized database queries and indexing for improved performance and scalability.
+
+### 🤖 AI Software Developer — Spinabot
+**Jan 2025 – Apr 2025 · Edison, NJ · Remote**
+
+- Built **LLM-powered autonomous agents** for enterprise workflow automation using LangChain and multi-agent architectures.
+- Developed full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
+- Created Streamlit dashboards for monitoring AI agent activity and workflow execution.
 
 ---
-## Leadership & Activities
+
+## 👑 Leadership & Activities
 
 ### Innovation & Incubation Cell Lead — GNITS
 
-**G. Narayanamma Institute of Technology and Sciences**
+Led the Innovation & Incubation Cell, promoting **innovation, entrepreneurship, and collaborative problem-solving** across the campus.
 
-Led the Innovation & Incubation Cell, driving a culture of **innovation, entrepreneurship, and collaborative problem-solving** across the campus.
-
-* Organized and led **hackathons, workshops, and innovation-focused initiatives**, engaging students in hands-on learning and ideation.
-* Motivated and mentored students to transform ideas into **practical, technology-driven solutions**.
-* Coordinated teams, faculty, and stakeholders to execute initiatives and foster a strong **innovation and entrepreneurial ecosystem**.
+- Organized and led **hackathons, workshops, and innovation initiatives**.
+- Motivated and mentored students to turn ideas into **practical technology-driven solutions**.
+- Coordinated students, faculty, and stakeholders to build a stronger **innovation ecosystem**.
 
 ---
+
 ## 🚀 Featured Projects
 
-### SentrySLA — SLA Breach Prediction for Incident Management
-
+### SentrySLA — SLA Breach Prediction
 **Dec 2025 – Apr 2026**
 
-An ML and NLP-based system that predicts potential SLA breaches from IT incident tickets, enabling proactive risk detection and smarter ticket prioritization.
+ML + NLP system for predicting potential SLA breaches and prioritizing high-risk IT incidents.
 
-* Built SLA risk prediction using **TF-IDF and Logistic Regression** on historical incident data.
-* Developed an interactive **Streamlit dashboard** for ticket risk, SLA health, and performance monitoring.
-* Integrated **Twilio SMS alerts** for high-risk incidents and automated breach warnings.
+- Built **TF-IDF + Logistic Regression** risk prediction.
+- Developed Streamlit monitoring dashboard and **Twilio SMS alerts**.
 
-**Stack:** `Python` · `Machine Learning` · `NLP` · `Scikit-learn` · `TF-IDF` · `Logistic Regression` · `Streamlit` · `Twilio`
+**Stack:** `Python` · `Scikit-learn` · `NLP` · `Streamlit` · `Twilio`
 
 **IEEE Conference Publication · ICoECIT 2026**
 
+---
 
 ### Spinabot Job Alert Agent
-
 **Jan 2025 – Mar 2025**
 
-An AI-powered job discovery and alert platform that analyzes user preferences and resumes to deliver personalized job recommendations and real-time notifications.
+AI-powered job discovery platform providing personalized recommendations and real-time WhatsApp alerts.
 
-* Built AI-powered job matching using **Gemini API**, resume parsing, and personalized preferences.
-* Developed a full-stack application with **FastAPI, PostgreSQL, and Streamlit**.
-* Integrated **Twilio WhatsApp alerts** for real-time job notifications.
+- Implemented resume-based job matching using **Gemini API**.
+- Built FastAPI + PostgreSQL backend with Streamlit frontend.
+- Integrated **Twilio WhatsApp notifications**.
 
-**Stack:** `FastAPI` · `PostgreSQL` · `Gemini API` · `Streamlit` · `Twilio` · `Python`
+**Stack:** `Python` · `FastAPI` · `Gemini API` · `PostgreSQL` · `Streamlit` · `Twilio`
 
+---
 
 ### Medicine Inventory Management System
-
 **Apr 2025 – Jun 2025**
 
-A healthcare inventory platform for managing medicine stocks, expiry dates, and authorized operator access while reducing inventory wastage.
+Healthcare inventory platform for managing medicine stocks, expiry dates, and operator access.
 
-* Built medicine tracking, search, stock management, and **automated expiry alerts**.
-* Implemented **token-based authentication** and RESTful backend services.
-* Developed the application using **Angular, ASP.NET Core Web API, Entity Framework, and SQL Server**.
+- Implemented inventory tracking, search, authentication, and **expiry alerts**.
+- Built RESTful backend using **ASP.NET Core and SQL Server**.
 
-**Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server` · `REST API`
+**Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server`
 
+---
 
-### Interactive Credit Card Fraud Detection System
-
+### Credit Card Fraud Detection System
 **Jan 2025 – May 2025**
 
-A machine-learning-based web application for detecting suspicious credit card transactions and providing real-time fraud alerts.
+ML-based application for detecting suspicious transactions and generating real-time fraud alerts.
 
-* Developed ML models to identify fraudulent transaction patterns.
-* Integrated **Twilio SMS alerts** for suspicious transactions.
-* Built an administrative dashboard with transaction monitoring, fraud analytics, and model feedback.
+- Developed ML-based fraud detection and transaction analysis.
+- Built admin dashboard with fraud analytics and **Twilio alerts**.
 
 **Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
 
-
-### EcoPuzzle — Environmental Education Game
-
-**Aug 2024 - Oct 2024**
-
-An interactive educational puzzle game designed to promote environmental awareness and scientific understanding through progressively challenging gameplay.
-
-* Developed the game using **Unity** with environmental learning objectives.
-* Integrated **MongoDB** and GLOBE Program protocols.
-* Combined interactive gameplay with educational content to encourage environmental literacy and problem-solving.
-
-**Stack:** `Unity` · `C#` · `MongoDB` · `GLOBE Program`
-
-
-### Traveler Bag Security Device
-
-**Feb 2024 – Aug 2024**
-
-A hardware-software security system combining biometric authentication, motion detection, GPS tracking, and real-time alerts to protect valuable belongings.
-
-* Integrated **ESP8266, fingerprint sensor, ADXL345 accelerometer, and NEO-6M GPS** for access control and movement detection.
-* Implemented **BC547 transistor-based external alert triggering** for unauthorized access.
-* Added **Twilio SMS notifications** for real-time security alerts.
-
-**Stack:** `ESP8266` · `Arduino IDE` · `Sensors` · `GPS` · `IoT` · `Twilio`
-
+---
 
 ### Finance Dashboard
-
 **Feb 2025**
 
-A web-based personal finance application for tracking accounts, transactions, spending patterns, and financial insights.
+Web application for personal finance tracking, analytics, and AI-assisted financial insights.
 
-* Implemented authentication, account overview, and transaction tracking.
-* Built interactive analytics for **income, expenses, and category-wise spending**.
-* Added an AI-powered virtual assistant for financial queries and insights.
+- Built authentication, transaction tracking, and spending analytics.
+- Added an **AI-powered financial assistant**.
 
 **Stack:** `HTML5` · `CSS` · `JavaScript` · `AI`
 
 ---
 
-## 🌍 NASA Space Apps Challenge 2024
+### EcoPuzzle — Environmental Education Game
+**2024**
 
-### Interactive Environmental Education Platform
+Interactive educational game designed to promote environmental awareness through progressive puzzle-based learning.
 
-Collaborated as part of a team to build an **interactive educational puzzle game** focused on environmental awareness and scientific understanding.
+- Developed using **Unity** with GLOBE Program integration.
+- Integrated **MongoDB** for data management.
 
-The project integrated **Unity, MongoDB, and GLOBE Program protocols** to create an engaging learning experience around real-world environmental concepts.
-
-**Highlights**
-
-* 🎮 Interactive educational gameplay
-* 🌍 Environmental awareness
-* 🧠 Progressive puzzle-based learning
-* 🌐 MongoDB integration
-* 🎯 GLOBE Program integration
-* 👥 Collaborative team development
-
-**Stack:** `Unity` · `MongoDB` · `C#`
+**Stack:** `Unity` · `C#` · `MongoDB`
 
 ---
 
-## 🔍 Explainable AI Research
+### Traveler Bag Security Device
+**Feb 2024 – Aug 2024**
 
-Explored **Explainable Artificial Intelligence (XAI)** with a focus on making machine-learning predictions more interpretable and understandable.
+IoT-based security system combining biometric authentication, motion detection, GPS tracking, and real-time alerts.
 
-The work strengthened my interest in developing AI systems where **performance and transparency go hand in hand**.
+- Integrated **ESP8266, fingerprint sensor, ADXL345, and NEO-6M GPS**.
+- Implemented unauthorized-access alerts with **Twilio SMS**.
 
-**Focus:** `Machine Learning` · `Explainable AI` · `Interpretability` · `Python`
+**Stack:** `ESP8266` · `Arduino` · `IoT` · `GPS` · `Sensors` · `Twilio`
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### AI / ML
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/NLP-7F77DD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F77DD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-534AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square"/>
 <img src="https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-534AB7?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
 
 ### AI / ML Concepts
 
-<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ensemble%20Learning-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-0891B2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Classification-EF4444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Regression-14B8A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clustering-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cross--Validation-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ensemble%20Learning-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=flat-square"/>
 
 ### Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 
 ### Frameworks & APIs
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Servlets-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
+<img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=flat-square"/>
 
-### Cloud & Data
+### Core Computer Science
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Mining-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-0284C7?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevOps-DC2626?style=flat-square"/>
+
+### Databases & Tools
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-
-### DevOps & Tools
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
 ### Analytics & Visualization
 
@@ -372,104 +283,123 @@ The work strengthened my interest in developing AI systems where **performance a
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
 </div>
+
 ---
-# 🎓 Education
 
-## G. Narayanamma Institute of Technology and Sciences (GNITS)
+## 🏆 Certifications & Credentials
 
-### Bachelor of Technology — Information Technology
+<div align="center">
 
+| 💼 Professional | 💻 Technical | 🌍 Competitions & Learning |
+|:---:|:---:|:---:|
+| **Deloitte** | **Micron Technology** | **NASA Space Apps** |
+| Data Analytics Job Simulation | Micron #Master 2.0 Mentee | International Space Apps Challenge |
+| Dec 2025 | Jun 2025 | Aug 2024 |
+| [View Credential](https://drive.google.com/file/d/1Mnmt3nFD_iKp4q2BUvSOxkpd4jg64bJ_/view) | [View Credential](https://drive.google.com/file/d/1kab20glBa8IdyiuQVhYTJ-zq9fVTTP6P/view) | [View Credential](https://drive.google.com/file/d/1f1wLMqBV5xNutnWcER3soeA9xrUWTSsL/view) |
+| **Smart Interviews** | **NPTEL** | |
+| Smart Coder · DSA | Certificate of Elite · Python | |
+| Jun 2025 | Oct 2023 | |
+| [View Credential](https://smartinterviews.in/certificate/27e8ea8f) | [View Credential](https://drive.google.com/file/d/1B5hp8uMU4K0jJpJ2jPsOmQpVKoS1Bin4/view) | |
+
+</div>
+
+---
+
+## 🎓 Education
+
+### G. Narayanamma Institute of Technology and Sciences
+
+**Bachelor of Technology — Information Technology**  
 **2022 – 2026**
 
 ### ⭐ CGPA: 9.20 / 10.0
 
-Built a strong foundation across:
-
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Database Management Systems` · `Computer Networks` · `Operating Systems` · `Software Engineering` · `Artificial Intelligence` · `Machine Learning`
-
----
-
-# 🏆 Research, Achievements & Highlights
-
-| Achievement                           | Recognition                                        |
-| ------------------------------------- | -------------------------------------------------- |
-| 📄 **SentrySLA**                      | IEEE Conference Publication · ICoECIT 2026         |
-| 🔬 **AI Research**                    | Research in Machine Learning, NLP & Explainable AI |
-| 💻 **Micron #Master 2.0**             | Full Stack Development Training Program            |
-| 🌍 **NASA Space Apps Challenge 2024** | Collaborative environmental education project      |
-| 🎓 **Academic Excellence**            | 9.20 / 10.0 CGPA                                   |
+**Relevant Coursework:**  
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Computer Networks` · `Operating Systems` · `AI` · `Machine Learning` · `Data Mining`
 
 ---
 
-# 📚 My AI Engineering Journey
+## 🏆 Research, Achievements & Highlights
+
+| Achievement | Recognition |
+|---|---|
+| 📄 **SentrySLA** | IEEE Conference Publication · ICoECIT 2026 |
+| 🔬 **AI Research** | Machine Learning · NLP · Explainable AI |
+| 💻 **Micron #Master 2.0** | Engineering Mentee · Full-Stack Development |
+| 👑 **Innovation & Incubation Cell Lead** | Hackathons · Workshops · Student Innovation |
+| 🌍 **NASA Space Apps Challenge** | Collaborative Environmental Education Project |
+| 🎓 **Academic Excellence** | 9.20 / 10.0 CGPA |
+
+---
+
+## 📚 AI Engineering Journey
 
 I'm building toward becoming an engineer who can work across the complete AI development lifecycle.
 
 ```text
-┌─────────────────────────────┐
-│      AI FUNDAMENTALS        │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│   MACHINE LEARNING / NLP    │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│       DEEP LEARNING         │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│       GENERATIVE AI         │
-│        & LLMs               │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│       RAG & EMBEDDINGS      │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     AI AGENTS & TOOLS       │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│   EVALUATION & VALIDATION   │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│       MLOps & CLOUD         │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     PRODUCTION AI           │
-│        SYSTEMS              │
-└─────────────────────────────┘
+AI FUNDAMENTALS
+      ↓
+MACHINE LEARNING & NLP
+      ↓
+GENERATIVE AI & LLMs
+      ↓
+RAG & EMBEDDINGS
+      ↓
+AI AGENTS & APPLICATIONS
+      ↓
+EVALUATION & VALIDATION
+      ↓
+MLOps & CLOUD
+      ↓
+PRODUCTION AI SYSTEMS
 ```
 
 ---
 
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-* 🤖 Generative AI & LLM applications
-* 🔗 Retrieval-Augmented Generation (RAG)
-* 🧠 AI Agents and tool-calling systems
-* 📊 Model evaluation and validation
-* 🔍 Explainable & trustworthy AI
-* ⚙️ AI Engineering and MLOps
-* ☁️ Cloud-based AI deployment
-* 🏗️ Designing scalable AI applications
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-7F77DD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-534AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20AI%20Deployment-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable%20AI%20Systems-F97316?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Exploring how intelligent systems move from experimentation to reliable, scalable production applications.**
+
+</div>
 
 ---
 
-# 📈 What I Believe
+## 💭 What I Believe
 
-> **AI is not just about building models.
-> It's about engineering systems that make those models useful.**
+<div align="center">
 
-I'm interested in the space between **research and real-world engineering** — understanding the underlying intelligence while also building the software, APIs, workflows, and interfaces that turn it into something people can actually use.
+### **AI is not just about building models.**
+### **It's about engineering systems that make those models useful.**
+
+<br>
+
+*I'm interested in the space between research and real-world engineering —  
+understanding intelligent systems while building the software, APIs, workflows,  
+and interfaces that turn them into useful products.*
+
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -483,27 +413,39 @@ I'm interested in the space between **research and real-world engineering** — 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=srithu-g\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=srithu-g&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-### I'm always open to connecting with people interested in
+### Interested in
 
 **Artificial Intelligence · Machine Learning · Generative AI · Research · Software Engineering · Intelligent Systems**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srithu%20Gaddolla-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/srithugaddolla)
+<a href="https://www.linkedin.com/in/srithugaddolla">
+<img src="https://img.shields.io/badge/LinkedIn-Srithu%20Gaddolla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-srithu--g-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/srithu-g)
+<a href="https://github.com/srithu-g">
+<img src="https://img.shields.io/badge/GitHub-srithu--g-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-srithu.gaddolla%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:srithu.gaddolla@gmail.com)
+<a href="mailto:srithu.gaddolla@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ✨ Learn deeply. Build boldly. Engineer intelligently.
+
+**From ideas → research → intelligent systems → real-world impact.**
 
 </div>
 
@@ -511,12 +453,6 @@ I'm interested in the space between **research and real-world engineering** — 
 
 <div align="center">
 
-### ✨ Learn deeply. Build boldly. Engineer intelligently.
-
-**From ideas → research → intelligent systems → real-world impact.**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=srithu-g\&color=7F77DD\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=srithu-g&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
