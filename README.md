@@ -76,12 +76,19 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 ## 💼 Experience
 
 ### 🧠 AI/ML Ops Engineer — HealthSathi
-**Jun 2025 – Apr 2026 · Marietta, GA · Remote**
+**Jun 2025 – Apr 2026 · Georgia, United States · Remote**
 
 - Built an end-to-end **AI diagnostic pipeline for tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
 - Trained **XGBoost and Random Forest** models on **5,000+ medical audio samples**, achieving **98% diagnostic accuracy**.
 - Optimized ML inference pipelines, reducing prediction latency by **30%**.
 - Developed reproducible experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**.
+
+### 🤖 AI Software Developer — Spinabot
+**Jan 2025 – Apr 2025 · New Jersey, United Stated · Remote**
+
+- Built **LLM-powered autonomous agents** for enterprise workflow automation using LangChain and multi-agent architectures.
+- Developed full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
+- Created Streamlit dashboards for monitoring AI agent activity and workflow execution.
 
 ### ⚙️ Engineering Mentee — Micron #Master 2.0
 **Apr 2025 – Jun 2025 · Hyderabad, India**
@@ -89,13 +96,6 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 - Built a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
 - Developed automated **medicine expiry prediction and alerts**, reducing wastage by **40%**.
 - Optimized database queries and indexing for improved performance and scalability.
-
-### 🤖 AI Software Developer — Spinabot
-**Jan 2025 – Apr 2025 · Edison, NJ · Remote**
-
-- Built **LLM-powered autonomous agents** for enterprise workflow automation using LangChain and multi-agent architectures.
-- Developed full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
-- Created Streamlit dashboards for monitoring AI agent activity and workflow execution.
 
 ---
 
