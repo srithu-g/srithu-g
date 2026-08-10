@@ -123,7 +123,7 @@ The research explores how machine learning and natural language processing can t
 
 ### 🧠 AI/ML Ops Engineer — HealthSathi
 
-**Jun 2025 – Apr 2026 · Marietta, GA · Remote**
+**Jun 2025 – Apr 2026 · Marietta, Georgia, USA · Remote**
 
 * Architected an end-to-end **AI diagnostic pipeline for early tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
 * Trained **XGBoost and Random Forest** ensemble models on **5,000+ labeled medical audio samples**, achieving **98% diagnostic accuracy**.
@@ -135,7 +135,7 @@ The research explores how machine learning and natural language processing can t
 
 ### 🤖 AI Software Developer — Spinabot
 
-**Jan 2025 – Apr 2025 · Edison, NJ · Remote**
+**Jan 2025 – Apr 2025 · Edison, New Jersey, USA · Remote**
 
 * Designed **LLM-powered autonomous AI agents** for enterprise workflow automation across marketing, sales, and operations using **LangChain and multi-agent architectures**.
 * Developed scalable full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
@@ -154,29 +154,203 @@ The research explores how machine learning and natural language processing can t
 * Applied industry practices in **API architecture, modular design, and backend service orchestration** under mentorship from Micron engineering leaders.
 
 ---
+## Leadership & Activities
 
-# 🚀 Featured Projects
+### Innovation & Incubation Cell Lead — GNITS
 
-## 🛡️ SentrySLA
+**G. Narayanamma Institute of Technology and Sciences**
 
-### SLA Breach Prediction for Incident Management
+Led the Innovation & Incubation Cell, driving a culture of **innovation, entrepreneurship, and collaborative problem-solving** across the campus.
 
-An ML + NLP-powered system that predicts potential SLA violations in IT incident tickets and helps support teams prioritize high-risk incidents.
+* Organized and led **hackathons, workshops, and innovation-focused initiatives**, engaging students in hands-on learning and ideation.
+* Motivated and mentored students to transform ideas into **practical, technology-driven solutions**.
+* Coordinated teams, faculty, and stakeholders to execute initiatives and foster a strong **innovation and entrepreneurial ecosystem**.
 
-**Highlights**
+---
+## 🚀 Featured Projects
 
-* Machine Learning-based SLA prediction
-* NLP-driven incident analysis
-* TF-IDF feature extraction
-* Logistic Regression classification
-* Streamlit analytics dashboard
-* Real-time risk visualization
-* Automated SMS alerts using Twilio
-* Intelligent ticket prioritization
+### SentrySLA — SLA Breach Prediction for Incident Management
 
-**Stack:** `Python` · `Scikit-learn` · `NLP` · `TF-IDF` · `Logistic Regression` · `Streamlit` · `Twilio`
+**Dec 2025 – Apr 2026**
 
-📄 **IEEE Conference Publication**
+An ML and NLP-based system that predicts potential SLA breaches from IT incident tickets, enabling proactive risk detection and smarter ticket prioritization.
+
+* Built SLA risk prediction using **TF-IDF and Logistic Regression** on historical incident data.
+* Developed an interactive **Streamlit dashboard** for ticket risk, SLA health, and performance monitoring.
+* Integrated **Twilio SMS alerts** for high-risk incidents and automated breach warnings.
+
+**Stack:** `Python` · `Machine Learning` · `NLP` · `Scikit-learn` · `TF-IDF` · `Logistic Regression` · `Streamlit` · `Twilio`
+
+**IEEE Conference Publication · ICoECIT 2026**
+
+---
+
+### Spinabot Job Alert Agent
+
+**Jan 2025 – Mar 2025**
+
+An AI-powered job discovery and alert platform that analyzes user preferences and resumes to deliver personalized job recommendations and real-time notifications.
+
+* Built AI-powered job matching using **Gemini API**, resume parsing, and personalized preferences.
+* Developed a full-stack application with **FastAPI, PostgreSQL, and Streamlit**.
+* Integrated **Twilio WhatsApp alerts** for real-time job notifications.
+
+**Stack:** `FastAPI` · `PostgreSQL` · `Gemini API` · `Streamlit` · `Twilio` · `Python`
+
+---
+
+### Medicine Inventory Management System
+
+**Apr 2025 – Jun 2025**
+
+A healthcare inventory platform for managing medicine stocks, expiry dates, and authorized operator access while reducing inventory wastage.
+
+* Built medicine tracking, search, stock management, and **automated expiry alerts**.
+* Implemented **token-based authentication** and RESTful backend services.
+* Developed the application using **Angular, ASP.NET Core Web API, Entity Framework, and SQL Server**.
+
+**Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server` · `REST API`
+
+---
+
+### Interactive Credit Card Fraud Detection System
+
+**Jan 2025 – May 2025**
+
+A machine-learning-based web application for detecting suspicious credit card transactions and providing real-time fraud alerts.
+
+* Developed ML models to identify fraudulent transaction patterns.
+* Integrated **Twilio SMS alerts** for suspicious transactions.
+* Built an administrative dashboard with transaction monitoring, fraud analytics, and model feedback.
+
+**Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
+
+---
+
+### EcoPuzzle — Environmental Education Game
+
+**Aug 2024 - Oct 2024**
+
+An interactive educational puzzle game designed to promote environmental awareness and scientific understanding through progressively challenging gameplay.
+
+* Developed the game using **Unity** with environmental learning objectives.
+* Integrated **MongoDB** and GLOBE Program protocols.
+* Combined interactive gameplay with educational content to encourage environmental literacy and problem-solving.
+
+**Stack:** `Unity` · `C#` · `MongoDB` · `GLOBE Program`
+
+---
+
+### Traveler Bag Security Device
+
+**Feb 2024 – Aug 2024**
+
+A hardware-software security system combining biometric authentication, motion detection, GPS tracking, and real-time alerts to protect valuable belongings.
+
+* Integrated **ESP8266, fingerprint sensor, ADXL345 accelerometer, and NEO-6M GPS** for access control and movement detection.
+* Implemented **BC547 transistor-based external alert triggering** for unauthorized access.
+* Added **Twilio SMS notifications** for real-time security alerts.
+
+**Stack:** `ESP8266` · `Arduino IDE` · `Sensors` · `GPS` · `IoT` · `Twilio`
+
+---
+
+### Finance Dashboard
+
+**Feb 2025**
+
+A web-based personal finance application for tracking accounts, transactions, spending patterns, and financial insights.
+
+* Implemented authentication, account overview, and transaction tracking.
+* Built interactive analytics for **income, expenses, and category-wise spending**.
+* Added an AI-powered virtual assistant for financial queries and insights.
+
+**Stack:** `HTML5` · `CSS` · `JavaScript` · `AI`
+
+
+---
+
+### Spinabot Job Alert Agent
+
+**Jan 2025 – Mar 2025**
+
+An AI-powered job discovery and alert platform that analyzes user preferences and resumes to deliver personalized job recommendations and real-time notifications.
+
+* Built AI-powered job matching using **Gemini API**, resume parsing, and personalized preferences.
+* Developed a full-stack application with **FastAPI, PostgreSQL, and Streamlit**.
+* Integrated **Twilio WhatsApp alerts** for real-time job notifications.
+
+**Stack:** `FastAPI` · `PostgreSQL` · `Gemini API` · `Streamlit` · `Twilio` · `Python`
+
+---
+
+### Medicine Inventory Management System
+
+**Apr 2025 – Jun 2025**
+
+A healthcare inventory platform for managing medicine stocks, expiry dates, and authorized operator access while reducing inventory wastage.
+
+* Built medicine tracking, search, stock management, and **automated expiry alerts**.
+* Implemented **token-based authentication** and RESTful backend services.
+* Developed the application using **Angular, ASP.NET Core Web API, Entity Framework, and SQL Server**.
+
+**Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server` · `REST API`
+
+---
+
+### Interactive Credit Card Fraud Detection System
+
+**Jan 2025 – May 2025**
+
+A machine-learning-based web application for detecting suspicious credit card transactions and providing real-time fraud alerts.
+
+* Developed ML models to identify fraudulent transaction patterns.
+* Integrated **Twilio SMS alerts** for suspicious transactions.
+* Built an administrative dashboard with transaction monitoring, fraud analytics, and model feedback.
+
+**Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
+
+---
+
+### EcoPuzzle — Environmental Education Game
+
+**2024**
+
+An interactive educational puzzle game designed to promote environmental awareness and scientific understanding through progressively challenging gameplay.
+
+* Developed the game using **Unity** with environmental learning objectives.
+* Integrated **MongoDB** and GLOBE Program protocols.
+* Combined interactive gameplay with educational content to encourage environmental literacy and problem-solving.
+
+**Stack:** `Unity` · `C#` · `MongoDB` · `GLOBE Program`
+
+---
+
+### Traveler Bag Security Device
+
+**Feb 2024 – Aug 2024**
+
+A hardware-software security system combining biometric authentication, motion detection, GPS tracking, and real-time alerts to protect valuable belongings.
+
+* Integrated **ESP8266, fingerprint sensor, ADXL345 accelerometer, and NEO-6M GPS** for access control and movement detection.
+* Implemented **BC547 transistor-based external alert triggering** for unauthorized access.
+* Added **Twilio SMS notifications** for real-time security alerts.
+
+**Stack:** `ESP8266` · `Arduino IDE` · `Sensors` · `GPS` · `IoT` · `Twilio`
+
+---
+
+### Finance Dashboard
+
+**Feb 2025**
+
+A web-based personal finance application for tracking accounts, transactions, spending patterns, and financial insights.
+
+* Implemented authentication, account overview, and transaction tracking.
+* Built interactive analytics for **income, expenses, and category-wise spending**.
+* Added an AI-powered virtual assistant for financial queries and insights.
+
+**Stack:** `HTML5` · `CSS` · `JavaScript` · `AI`
 
 ---
 
