@@ -199,30 +199,13 @@ IoT-based security system combining biometric authentication, motion detection, 
 
 <div align="center">
 
-### AI / ML
+🤖 AI / ML
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F77DD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-534AB7?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<p align="left"> <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" /> </p>
 
-### AI / ML Concepts
+🧠 AI / ML Concepts
 
-<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Unsupervised%20Learning-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Classification-EF4444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Regression-F97316?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clustering-14B8A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cross--Validation-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ensemble%20Learning-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=flat-square"/>
+<p align="left"> <img src="https://img.shields.io/badge/Prompt%20Engineering-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embeddings-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vector%20Search-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Model%20Evaluation-0A0A0A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Explainable%20AI-0A0A0A?style=for-the-badge" /> </p>
 
 ### Languages
 
@@ -283,20 +266,90 @@ IoT-based security system combining biometric authentication, motion detection, 
 
 ## 🏆 Certifications & Credentials
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| 💼 Professional | 💻 Technical | 🌍 Competitions & Learning |
-|:---:|:---:|:---:|
-| **Deloitte** | **Micron Technology** | **NASA Space Apps** |
-| Data Analytics Job Simulation | Micron #Master 2.0 Mentee | International Space Apps Challenge |
-| Dec 2025 | Jun 2025 | Aug 2024 |
-| [View Credential](https://drive.google.com/file/d/1Mnmt3nFD_iKp4q2BUvSOxkpd4jg64bJ_/view) | [View Credential](https://drive.google.com/file/d/1kab20glBa8IdyiuQVhYTJ-zq9fVTTP6P/view) | [View Credential](https://drive.google.com/file/d/1f1wLMqBV5xNutnWcER3soeA9xrUWTSsL/view) |
-| **Smart Interviews** | **NPTEL** | |
-| Smart Coder · DSA | Certificate of Elite · Python | |
-| Jun 2025 | Oct 2023 | |
-| [View Credential](https://smartinterviews.in/certificate/27e8ea8f) | [View Credential](https://drive.google.com/file/d/1B5hp8uMU4K0jJpJ2jPsOmQpVKoS1Bin4/view) | |
+### 💼 Professional
 
-</div>
+**Deloitte**
+Data Analytics Job Simulation
+
+📅 Dec 2025
+
+<a href="https://drive.google.com/file/d/1Mnmt3nFD_iKp4q2BUvSOxkpd4jg64bJ_/view">
+<img src="https://img.shields.io/badge/View%20Credential-0A0A0A?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 Technical
+
+**Micron Technology**
+Micron #Master 2.0 Mentee
+
+📅 Jun 2025
+
+<a href="https://drive.google.com/file/d/1kab20glBa8IdyiuQVhYTJ-zq9fVTTP6P/view">
+<img src="https://img.shields.io/badge/View%20Credential-0A0A0A?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌍 Competition
+
+**NASA Space Apps**
+International Space Apps Challenge
+
+📅 Aug 2024
+
+<a href="https://drive.google.com/file/d/1f1wLMqBV5xNutWcER3soeA9xrUWTSsL/view">
+<img src="https://img.shields.io/badge/View%20Credential-0A0A0A?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 DSA
+
+**Smart Interviews**
+Smart Coder · DSA
+
+📅 Jun 2025
+
+<a href="https://smartinterviews.in/certificate/27e8ea8f">
+<img src="https://img.shields.io/badge/View%20Credential-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🐍 Programming
+
+**NPTEL**
+Certificate of Elite · Python
+
+📅 Oct 2023
+
+<a href="https://drive.google.com/file/d/1B5hp8uMU4K0jJpJ2jPsOmQpVKoS1Bin4/view">
+<img src="https://img.shields.io/badge/View%20Credential-0A0A0A?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -319,7 +372,6 @@ IoT-based security system combining biometric authentication, motion detection, 
 | Achievement | Recognition |
 |---|---|
 | 📄 **SentrySLA** | IEEE Conference Publication · ICoECIT 2026 |
-| 🔬 **AI Research** | Machine Learning · NLP · Explainable AI |
 | 💻 **Micron #Master 2.0** | Engineering Mentee · Full-Stack Development |
 | 👑 **Innovation & Incubation Cell Lead** | Hackathons · Workshops · Student Innovation |
 | 🌍 **NASA Space Apps Challenge** | Collaborative Environmental Education Project |
@@ -433,8 +485,9 @@ and interfaces that turn them into useful products.*
 </a>
 
 <a href="mailto:srithu.gaddolla@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Srithu%20Gaddolla-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 <br><br>
 
