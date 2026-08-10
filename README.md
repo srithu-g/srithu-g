@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Srithu Gaddolla
 
-### AI/ML Engineer · Generative AI · LLMs · Intelligent Systems · AI Research
+### AI/ML Engineer · LLMs · RAG · Intelligent Systems · AI Research
 
 ![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-534AB7?style=for-the-badge)
 ![IEEE Published Researcher](https://img.shields.io/badge/IEEE%20Published%20Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-![B.Tech IT](https://img.shields.io/badge/B.Tech%20IT-9.20%20CGPA-22C55E?style=for-the-badge)
+![B.Tech Information Technology](https://img.shields.io/badge/B.Tech%20IT-9.20%20CGPA-22C55E?style=for-the-badge)
 
 <br>
 
