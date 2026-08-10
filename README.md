@@ -7,7 +7,6 @@
 ![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-534AB7?style=for-the-badge\&logo=artificialintelligence\&logoColor=white)
 ![IEEE Published Researcher](https://img.shields.io/badge/IEEE%20Published%20Researcher-00629B?style=for-the-badge\&logo=ieee\&logoColor=white)
 ![B.Tech IT](https://img.shields.io/badge/B.Tech%20IT-9.20%20CGPA-22C55E?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7F77DD?style=for-the-badge)
 
 <br>
 
