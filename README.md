@@ -98,7 +98,7 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 - Optimized database queries and indexing for improved performance and scalability.
 
 ---
-## Leadership & Activities
+## 🤝 Leadership & Activities
 
 ### Innovation & Incubation Cell Lead — GNITS
 
@@ -126,7 +126,6 @@ ML + NLP system for predicting potential SLA breaches and prioritizing high-risk
 
 **IEEE Conference Publication · ICoECIT 2026**
 
----
 
 ### Spinabot Job Alert Agent
 **Jan 2025 – Mar 2025**
@@ -139,7 +138,6 @@ AI-powered job discovery platform providing personalized recommendations and rea
 
 **Stack:** `Python` · `FastAPI` · `Gemini API` · `PostgreSQL` · `Streamlit` · `Twilio`
 
----
 
 ### Medicine Inventory Management System
 **Apr 2025 – Jun 2025**
@@ -151,7 +149,6 @@ Healthcare inventory platform for managing medicine stocks, expiry dates, and op
 
 **Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server`
 
----
 
 ### Credit Card Fraud Detection System
 **Jan 2025 – May 2025**
@@ -163,7 +160,6 @@ ML-based application for detecting suspicious transactions and generating real-t
 
 **Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
 
----
 
 ### Finance Dashboard
 **Feb 2025**
@@ -175,10 +171,9 @@ Web application for personal finance tracking, analytics, and AI-assisted financ
 
 **Stack:** `HTML5` · `CSS` · `JavaScript` · `AI`
 
----
 
 ### EcoPuzzle — Environmental Education Game
-**2024**
+** Aug 2024 - Oct 2024**
 
 Interactive educational game designed to promote environmental awareness through progressive puzzle-based learning.
 
@@ -187,7 +182,6 @@ Interactive educational game designed to promote environmental awareness through
 
 **Stack:** `Unity` · `C#` · `MongoDB`
 
----
 
 ### Traveler Bag Security Device
 **Feb 2024 – Aug 2024**
