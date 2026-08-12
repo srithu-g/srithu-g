@@ -114,6 +114,22 @@ Led the Innovation & Incubation Cell, driving a culture of **innovation, entrepr
 
 ## 🚀 Featured Projects
 
+## 🤖 End-to-End LLM AI Assistant
+**Jul 2025 – Aug 2026**
+
+Built and deployed a production-style LLM application to understand how an AI assistant works beyond a simple API call.
+
+- **Intelligent Query Routing** — routes user requests between direct LLM responses and specialized tools.
+- **Tool Integration** — Calculator, Weather, Wikipedia, and Unit Converter.
+- **Conversation Context & State** — maintains context for more meaningful interactions.
+- **LLM Integration** — Llama 3.3 70B through Groq's OpenAI-compatible API.
+- **Modular Architecture** — routing, prompts, tools, state, validation, logging, and response generation.
+- **Deployment** — deployed as an interactive Streamlit application with secure API-key management.
+
+**Stack:** `Python` · `LLMs` · `Groq` · `Llama 3.3 70B` · `OpenAI SDK` · `Streamlit` · `Pydantic`
+
+🚀 **[Live Demo](https://srithu-end-to-end-llm-ai-assistant.streamlit.app/)**
+
 ### SentrySLA — SLA Breach Prediction
 **Dec 2025 – Apr 2026**
 
