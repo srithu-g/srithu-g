@@ -75,7 +75,7 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 
 ## 💼 Experience
 
-### 🧠 AI/ML Ops Engineer — HealthSathi
+## 🧠 AI/ML Ops Engineer — HealthSathi
 **Jun 2025 – Apr 2026 · Georgia, United States · Remote**
 
 - Built an end-to-end **AI diagnostic pipeline for tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
@@ -83,14 +83,14 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 - Optimized ML inference pipelines, reducing prediction latency by **30%**.
 - Developed reproducible experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**.
 
-### 🤖 AI Software Developer — Spinabot
+## 🤖 AI Software Developer — Spinabot
 **Jan 2025 – Apr 2025 · New Jersey, United Stated · Remote**
 
 - Built **LLM-powered autonomous agents** for enterprise workflow automation using LangChain and multi-agent architectures.
 - Developed full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
 - Created Streamlit dashboards for monitoring AI agent activity and workflow execution.
 
-### ⚙️ Engineering Mentee — Micron #Master 2.0
+## ⚙️ Engineering Mentee — Micron #Master 2.0
 **Apr 2025 – Jun 2025 · Hyderabad, India**
 
 - Built a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
@@ -130,7 +130,7 @@ Built and deployed a production-style LLM application to understand how an AI as
 
 🚀 **[Live Demo](https://srithu-end-to-end-llm-ai-assistant.streamlit.app/)**
 
-### SentrySLA — SLA Breach Prediction
+## SentrySLA — SLA Breach Prediction
 **Dec 2025 – Apr 2026**
 
 ML + NLP system for predicting potential SLA breaches and prioritizing high-risk IT incidents.
@@ -143,7 +143,7 @@ ML + NLP system for predicting potential SLA breaches and prioritizing high-risk
 **IEEE Conference Publication · ICoECIT 2026**
 
 
-### Spinabot Job Alert Agent
+## Spinabot Job Alert Agent
 **Jan 2025 – Mar 2025**
 
 AI-powered job discovery platform providing personalized recommendations and real-time WhatsApp alerts.
@@ -155,7 +155,7 @@ AI-powered job discovery platform providing personalized recommendations and rea
 **Stack:** `Python` · `FastAPI` · `Gemini API` · `PostgreSQL` · `Streamlit` · `Twilio`
 
 
-### Medicine Inventory Management System
+## Medicine Inventory Management System
 **Apr 2025 – Jun 2025**
 
 Healthcare inventory platform for managing medicine stocks, expiry dates, and operator access.
@@ -166,7 +166,7 @@ Healthcare inventory platform for managing medicine stocks, expiry dates, and op
 **Stack:** `Angular` · `ASP.NET Core` · `Entity Framework` · `SQL Server`
 
 
-### Credit Card Fraud Detection System
+## Credit Card Fraud Detection System
 **Jan 2025 – May 2025**
 
 ML-based application for detecting suspicious transactions and generating real-time fraud alerts.
@@ -177,7 +177,7 @@ ML-based application for detecting suspicious transactions and generating real-t
 **Stack:** `Python` · `Machine Learning` · `Node.js` · `MySQL` · `Twilio`
 
 
-### Finance Dashboard
+## Finance Dashboard
 **Feb 2025**
 
 Web application for personal finance tracking, analytics, and AI-assisted financial insights.
@@ -188,7 +188,7 @@ Web application for personal finance tracking, analytics, and AI-assisted financ
 **Stack:** `HTML5` · `CSS` · `JavaScript` · `AI`
 
 
-### EcoPuzzle — Environmental Education Game
+## EcoPuzzle — Environmental Education Game
 ** Aug 2024 - Oct 2024**
 
 Interactive educational game designed to promote environmental awareness through progressive puzzle-based learning.
@@ -199,7 +199,7 @@ Interactive educational game designed to promote environmental awareness through
 **Stack:** `Unity` · `C#` · `MongoDB`
 
 
-### Traveler Bag Security Device
+## Traveler Bag Security Device
 **Feb 2024 – Aug 2024**
 
 IoT-based security system combining biometric authentication, motion detection, GPS tracking, and real-time alerts.
