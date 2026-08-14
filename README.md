@@ -74,7 +74,7 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 ---
 ## 💼 Experience
 
-### AI/ML Ops Engineer — HealthSathi
+## AI/ML Ops Engineer — HealthSathi
 
 **Atlanta, Georgia, United States · Remote**
 *Jun 2025 – May 2026*
@@ -83,9 +83,8 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 * Trained **XGBoost and Random Forest** models on large-scale datasets, achieving high predictive accuracy and robustness.
 * Built reproducible ML workflows for **data preprocessing, feature selection, and model evaluation** using Python, Pandas, and scikit-learn.
 
----
 
-### Software Engineering Mentee — Micron #Master 2.0 Program
+## Software Engineering Mentee — Micron #Master 2.0 Program
 
 **Micron Technology · Hyderabad, Telangana, India**
 *Apr 2025 – Jun 2025*
@@ -94,9 +93,8 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 * Built automated **expiry prediction and alerting workflows**, reducing medicine wastage by **40%**.
 * Optimized database queries and applied **API architecture and modular system design** for scalable applications.
 
----
 
-### AI Software Developer — Spinabot
+## AI Software Developer — Spinabot
 
 **Edison, New Jersey, United States · Remote**
 *Jan 2025 – Apr 2025*
