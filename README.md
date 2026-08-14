@@ -77,6 +77,7 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 ## AI/ML Ops Engineer — HealthSathi
 
 **Atlanta, Georgia, United States · Remote**
+
 *Jun 2025 – May 2026*
 
 * Designed and deployed an **end-to-end machine learning pipeline** for audio-based disease screening using signal processing and feature engineering.
@@ -87,6 +88,7 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 ## Software Engineering Mentee — Micron #Master 2.0 Program
 
 **Micron Technology · Hyderabad, Telangana, India**
+
 *Apr 2025 – Jun 2025*
 
 * Developed a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
@@ -97,6 +99,7 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 ## AI Software Developer — Spinabot
 
 **Edison, New Jersey, United States · Remote**
+
 *Jan 2025 – Apr 2025*
 
 * Built **LLM-powered AI agents** for workflow automation using LangChain, Gemini API, and multi-agent architectures.
