@@ -72,30 +72,39 @@ An ML + NLP system designed to proactively identify high-risk IT incident ticket
 📄 [View Publication](https://doi.org/10.1109/ICoECIT68303.2026.11496752)
 
 ---
-
 ## 💼 Experience
 
-## 🧠 AI/ML Ops Engineer — HealthSathi
-**Jun 2025 – Apr 2026 · Georgia, United States · Remote**
+### AI/ML Ops Engineer — HealthSathi
 
-- Built an end-to-end **AI diagnostic pipeline for tuberculosis screening** using cough audio, Google HeAR embeddings, signal processing, and ML feature engineering.
-- Trained **XGBoost and Random Forest** models on **5,000+ medical audio samples**, achieving **98% diagnostic accuracy**.
-- Optimized ML inference pipelines, reducing prediction latency by **30%**.
-- Developed reproducible experimentation workflows using **Python, scikit-learn, Pandas, and Jupyter**.
+**Atlanta, Georgia, United States · Remote**
+*Jun 2025 – May 2026*
 
-## 🤖 AI Software Developer — Spinabot
-**Jan 2025 – Apr 2025 · New Jersey, United Stated · Remote**
+* Designed and deployed an **end-to-end machine learning pipeline** for audio-based disease screening using signal processing and feature engineering.
+* Trained **XGBoost and Random Forest** models on large-scale datasets, achieving high predictive accuracy and robustness.
+* Built reproducible ML workflows for **data preprocessing, feature selection, and model evaluation** using Python, Pandas, and scikit-learn.
 
-- Built **LLM-powered autonomous agents** for enterprise workflow automation using LangChain and multi-agent architectures.
-- Developed full-stack AI applications using **React.js, Node.js, Spring Boot, and REST APIs**.
-- Created Streamlit dashboards for monitoring AI agent activity and workflow execution.
+---
 
-## ⚙️ Engineering Mentee — Micron #Master 2.0
-**Apr 2025 – Jun 2025 · Hyderabad, India**
+### Software Engineering Mentee — Micron #Master 2.0 Program
 
-- Built a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
-- Developed automated **medicine expiry prediction and alerts**, reducing wastage by **40%**.
-- Optimized database queries and indexing for improved performance and scalability.
+**Micron Technology · Hyderabad, Telangana, India**
+*Apr 2025 – Jun 2025*
+
+* Developed a **pharmaceutical inventory management platform** using Angular, ASP.NET Core, SQL Server, and REST APIs.
+* Built automated **expiry prediction and alerting workflows**, reducing medicine wastage by **40%**.
+* Optimized database queries and applied **API architecture and modular system design** for scalable applications.
+
+---
+
+### AI Software Developer — Spinabot
+
+**Edison, New Jersey, United States · Remote**
+*Jan 2025 – Apr 2025*
+
+* Built **LLM-powered AI agents** for workflow automation using LangChain, Gemini API, and multi-agent architectures.
+* Developed a **Job Search AI Agent** using Gemini API for automated job discovery, matching, and workflow optimization.
+* Developed full-stack AI applications and dashboards using **React.js, Node.js, Spring Boot, REST APIs, and Streamlit**.
+
 
 ---
 ## 🤝 Leadership & Activities
