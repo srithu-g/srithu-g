@@ -391,17 +391,26 @@ Certificate of Elite · Python
 
 ---
 
+
 ## 🎓 Education
+
+### Maynooth University
+
+**MSc — Robotics and Embedded AI**  
+**2026 – 2027**
+
+**Relevant Coursework:**  
+`Computer Vision` · `Robotics & Automation` · `Deep Learning` · `Human-Robot Interaction` · `3D Vision & Augmented Reality` · `Reinforcement Learning`
 
 ### G. Narayanamma Institute of Technology and Sciences
 
 **Bachelor of Technology — Information Technology**  
 **2022 – 2026**
 
-### ⭐ CGPA: 9.20 / 10.0
 
 **Relevant Coursework:**  
 `Data Structures & Algorithms` · `OOP` · `DBMS` · `Computer Networks` · `Operating Systems` · `AI` · `Machine Learning` · `Data Mining`
+
 
 ---
 
